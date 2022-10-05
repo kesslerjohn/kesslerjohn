@@ -9,7 +9,7 @@ I am also a strong proponent of clean and renewable energy, and am seeking oppor
 
 ### Personal interests:
 I am interested in Natural Language Processing and other applications of machine learning, including topological machine learning. 
-I like to think about mathematical approaches to the theory of computing, and (conversely) questions in mathematical computing. 
+I like to think about mathematical approaches to computing, and (conversely) questions in mathematical computing. 
 I also (of course) love building projects that provide some personal utility in my life and the lives of those around me. 
 
 For contact info, please visit my personal website [under construction]
