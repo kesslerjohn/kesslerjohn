@@ -12,4 +12,4 @@ I am interested in Natural Language Processing and other applications of machine
 I like to think about mathematical approaches to computing, and (conversely) questions in mathematical computing. 
 I also (of course) love building projects that provide some personal utility in my life and the lives of those around me. 
 
-For contact info, please visit my personal website [under construction]
+For contact info, please visit my personal website at kesslerjohn.com [under construction]
