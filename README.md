@@ -1,6 +1,6 @@
 ## Hi, I’m John!
 
-I am a Master's candidate in Computer Science at the University of Iowa. My prior education includes a Master's in Linguistics and a Bachelor's of the Arts in Literature. I'm always looking for a project that pushes the boundaries of my knowlege and experience. As a result, I have interests in a lot of different fields. 
+I am a Master's candidate in Computer Science at the University of Iowa. My prior education includes a Master's in Linguistics and a Bachelor's of the Arts in Literature. I'm always looking for a project that pushes the boundaries of my knowledge and experience. As a result, I have interests in a lot of different fields. 
 
 ### Professional interests:
 I am interested in technology to improve access to education and facilitate the needs of students and administrators of educational institutions.
