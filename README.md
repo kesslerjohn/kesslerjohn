@@ -6,7 +6,7 @@ I am a Master's candidate in Computer Science at the University of Iowa. My prio
  - AI for Social Good
  - Natural Language Processing
  - Automated theorem-proving
- - Homotopy type theory
+ - Type theory
  - I also love building projects that provide some personal utility in my life and the lives of those around me. 
 
 For contact info, please visit my personal website at kesslerjohn.com [under construction]
